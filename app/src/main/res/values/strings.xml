@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Oscar Cruz</string>
+    <string name="telefono">1234567</string>
+    <string name="email">oscar@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pcount">count</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Settings</string>
+
+</resources>
